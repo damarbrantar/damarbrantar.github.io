@@ -1,0 +1,14 @@
+.banner-two {
+	padding-top: 152px;
+	background-image: url("https://lh3.googleusercontent.com/p/AF1QipO1j5O84JhrjMefcBI6WxVvIoFpFfMQhjgcSdJ0=s1360-w1360-h1020") !important;
+}
+
+.partner-two {
+	padding: 15px 0;
+	position: relative;
+	z-index: 1;
+	overflow: hidden;
+	background: url(https://scontent.fcgk33-1.fna.fbcdn.net/v/t1.6435-9/93841630_945568919210731_8793271361838514176_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFvxLa2QFkQ_L-WWfN_-_2O_n6YnHCjs17-fpiccKOzXhBMd2ldy5jqjPuVsw6DwauD-_NU9SY9VlNVMQF7tprF&_nc_ohc=hkAJI4Ff3MgQ7kNvgGuJQRH&_nc_zt=23&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=AZG9FAKWi50kjFeFQ5sb84s&oh=00_AYCgLKKQ3fMwLTSYBfdn330U0RJmYj-pzT8JXUK4t5rYYQ&oe=677B891B)
+		no-repeat center;
+	background-size: cover;
+}
